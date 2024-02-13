@@ -5,7 +5,7 @@ This repository includes code used to assemble genes sequenced with anchored hyb
 Silva, F.L., de Medeiros, B.A.S., & Farrell, B.D. (2024). Once upon a fly: The biogeographical odyssey of Labrundinia (Chironomidae, Tanypodinae), an aquatic non-biting midge towards diversification. Molecular Phylogenetics and Evolution, 108025. https://doi.org/10.1016/j.ympev.2024.108025
 
 
-# Modifications to standard SECAPR assembly
+## Modifications to standard SECAPR assembly
 
 This dataset presents some complications that required modifications from standard SECAPR assembly:
 
